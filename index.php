@@ -1,5 +1,7 @@
 <?php
 
-echo "teste do curso"
+echo "Exercicio Curso";
+  
+  echo "Ola Larissa";
 
 ?>
