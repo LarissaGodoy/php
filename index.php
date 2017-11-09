@@ -1,7 +1,7 @@
 <?php
 
-echo "Exercicio Curso";
+echo "Curso";
   
-  echo "Ola Larissa";
+  echo "Ola Fernando";
 
 ?>
